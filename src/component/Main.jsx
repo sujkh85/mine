@@ -25,7 +25,7 @@ class Main extends Component {
     //10*10
     row: 10,
     column: 10,
-    mineCount: 1
+    mineCount: 15
   };
   getTxBuild = ({
     from,
