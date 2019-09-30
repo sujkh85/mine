@@ -1,0 +1,22 @@
+.main-page-wrapper{
+  width: 100%;
+  min-height: 100%;
+}
+.page-container_header{
+  height: 50px;
+  padding:10px 20px;
+  font-weight: bold;
+  color:#507e26;
+}
+.main-page-container{
+  min-width: 1200px;
+  max-width: 1200px;
+  width:100%;
+  height: calc(100% - 50px);
+  padding: 45px 50px 120px;
+  margin: 0px auto;
+}
+.page-container_content{
+  position: relative;
+  box-sizing: border-box;
+}

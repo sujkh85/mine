@@ -1,0 +1,27 @@
+
+.main-row-container{
+  display:flex;
+  .main-row-item{
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+    justify-content: center;
+    padding:5px;
+    width:40px;
+    height: 40px;
+    box-sizing: border-box; 
+  }
+  .main-row-item-even{
+    background-color: #81f01a;
+  }
+  .main-row-item-odd{
+    background-color: #507e26;
+  }
+  .open{
+    background-color: #ffc400 !important;
+  }
+}
+
+.button-container{
+  margin-top:30px;
+}

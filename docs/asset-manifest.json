@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/static/css/main.e1b84295.chunk.css",
+    "main.js": "/static/js/main.813fbc4f.chunk.js",
+    "main.js.map": "/static/js/main.813fbc4f.chunk.js.map",
+    "runtime~main.js": "/static/js/runtime~main.a8a9905a.js",
+    "runtime~main.js.map": "/static/js/runtime~main.a8a9905a.js.map",
+    "static/js/2.81d2a7f9.chunk.js": "/static/js/2.81d2a7f9.chunk.js",
+    "static/js/2.81d2a7f9.chunk.js.map": "/static/js/2.81d2a7f9.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.2e30b05844e0ed07264bc5cb494937e1.js": "/precache-manifest.2e30b05844e0ed07264bc5cb494937e1.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/main.e1b84295.chunk.css.map": "/static/css/main.e1b84295.chunk.css.map",
+    "static/media/bomb.png": "/static/media/bomb.78099a3b.png",
+    "static/media/boom.mp3": "/static/media/boom.1f042630.mp3",
+    "static/media/click.mp3": "/static/media/click.8026a539.mp3",
+    "static/media/victory.m4a": "/static/media/victory.4f86f5e9.m4a"
+  }
+}
